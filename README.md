@@ -1,7 +1,7 @@
 # Hospital-Fundamental-Part2
 Projetado com MySQL
 
-# Hospital Fundamental parte 2 - MYSQL
+# Hospital Fundamental Part 2 - MYSQL
 Neste projeto proposto chamado "Hospital Fundamental" proposto pelo meu professor criei o banco de dados a partir da modelagem do sistema, feita na parte 1 do projeto Hospital fundamental aqui :
 
 https://github.com/DevOrosco/Hospital_Fundamental-Part-1
