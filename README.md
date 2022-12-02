@@ -8,7 +8,6 @@ https://github.com/DevOrosco/Hospital_Fundamental-Part-1
 
 ## Descrição do Projeto
 
-## Entender do assunto
 Considere a seguinte descrição e o diagrama ER abaixo:
 
 No hospital, as internações têm sido registradas por meio de formulários eletrônicos que gravam os dados em arquivos. 
