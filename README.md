@@ -38,6 +38,6 @@ Use ferramentas, como ERPlus, Lucidchart, draw.io (via web) e MySQL Workbench, o
 
 Importante: desse modelo já vamos para a etapa lógica da nossa modelagem!
 
-### Você pode encontrar a primeira parte desse proejto aqui:
+### Você pode encontrar a primeira parte desse projeto aqui:
 
 https://github.com/DevOrosco/Hospital_Fundamental-Part-1
